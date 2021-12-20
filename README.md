@@ -35,3 +35,9 @@
   </a>
   <a href="https://www.sqlite.org/"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg' width="40" height="40"/> </a>
 </p>
+  
+  <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=H1mJT&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1mJT&theme=react&layout=compact" />
+</p>
+
