@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=H1mJT&label=Profile%20views&color=0e75b6&style=flat" alt="H1mJT" /> </p>
-[![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT)
+[![image](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT)
 
   
 <h3 align="center">Connect with me:</h3>
