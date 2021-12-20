@@ -6,8 +6,21 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=H1mJT.H1mJT)
 [![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT) 
+<div size='20px'> Hi! My name is Himjyoti. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
+ <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Python web frameworks.
+  
+- 🌱 I’m currently learning scikit, seaborn, numpy, pandas and open cv.
+  
+- 👯 I’m looking to collaborate on Data science.
+  
+- 💬 Ask me about Python, Flask.
+  
   
 <h3 align="center">Connect with me:</h3>
 <div align="center">
