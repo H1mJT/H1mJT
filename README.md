@@ -8,6 +8,16 @@
 [![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT) 
 <div size='20px'> Hi! My name is Himjyoti. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
+ 
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HimjyotiThkuria/)
+[![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/471534123685642250)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himjyoti22@gmail.com)
+[![image](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HimJT)
+</div>
+
 
  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -22,14 +32,7 @@
 - 💬 Ask me about Python, Flask.
   
   
-<h3 align="center">Connect with me:</h3>
-<div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HimjyotiThkuria/)
-[![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/471534123685642250)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himjyoti22@gmail.com)
-
-</div>
 
   <h3 align="center">Languages and Tools:</h3>
 
