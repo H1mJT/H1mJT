@@ -64,6 +64,6 @@
 <p align= "center">
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=H1mJT&theme=react&show_icons=true&include_all_commits=true" />
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1mJT&theme=react&layout=compact" />
- ![H1mJT's GitHub stats](https://github-readme-stats.vercel.app/api?username=H1mJT)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 </div>
