@@ -2,10 +2,12 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-<div align="center">
+
+
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT) 
-</div>
+
+
   
 <h3 align="center">Connect with me:</h3>
 <div align="center">
