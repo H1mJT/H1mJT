@@ -3,7 +3,7 @@
 <p align='center'>
 </p>
 <div align="center">
-<p> <img src="https://komarev.com/ghpvc/?username=H1mJT&label=Profile%20views&color=0e75b6&style=flat" alt="H1mJT" /> </p>
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT) 
 </div>
   
