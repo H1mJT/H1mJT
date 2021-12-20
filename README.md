@@ -5,7 +5,7 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=H1mJT)
-'''[![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT) '''
+<!---[![Github](https://img.shields.io/github/followers/H1mJT?label=Follow&style=social)](https://github.com/H1mJT) -->
 <div size='20px'> Hi! My name is Himjyoti. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
  
