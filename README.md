@@ -17,24 +17,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himjyoti22@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KenZiiiiiie)
 </div>
-
-
- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on  Python web frameworks.
-  
-- 🌱 I’m currently learning scikit, seaborn, numpy, pandas and open cv.
-  
-- 👯 I’m looking to collaborate on Data science.
-  
-- 💬 Ask me about Python, Flask.
-  
-  
-
-
-  <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -51,6 +34,23 @@
   </a>
   <a href="https://www.sqlite.org/"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg' width="40" height="40"/> </a>
 </p>
+
+ <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Python web frameworks.
+  
+- 🌱 I’m currently learning scikit, seaborn, numpy, pandas and open cv.
+  
+- 👯 I’m looking to collaborate on Data science.
+  
+- 💬 Ask me about Python, Flask.
+  
+  
+
+
+
   
   <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=H1mJT&theme=react&show_icons=true&include_all_commits=true" />
