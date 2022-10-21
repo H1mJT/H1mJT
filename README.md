@@ -17,7 +17,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himjyoti22@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KenZiiiiiie)
 [![image](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://forum.xda-developers.com/m/h1mjt.7882415/)
-</div>(
+</div>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
